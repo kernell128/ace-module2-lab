@@ -10,7 +10,7 @@
 ## Code Contributions
 
 The ten minimum requirements for code contributions are:
-
+KM
 1. All Pull Requests _must_ be based off the `develop` branch.
 2. The code _must_ be compliant with the configured ESLint rules based on the [JS Standard Code Style](http://standardjs.com).
 3. All PRs _should_ have a dedicated scope (e.g. not mixing code refactorings with delivering a new feature) and reasonable size.
