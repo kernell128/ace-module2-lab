@@ -5,7 +5,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 echo "==========================================="
-echo "   CodeMender Guardrail Lab Environment Setup"
+echo "   CodeMender Guardrail Lab Environment Setup1"
 echo "==========================================="
 echo ""
 
